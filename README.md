@@ -1,1 +1,3 @@
 # WebScraping-Linkedin-Jobs-in-Oslo
+
+In this project, I developed a bot in Python that automated the process of logging into LinkedIn and gathering job listings for the position of "data analyst" in Oslo. The bot was designed to navigate through the website and select all relevant job listings, and then retrieve the job descriptions. This automation significantly reduced the time and effort required to gather this information manually. The information gathered was useful for job seekers looking to apply for data analyst roles in Oslo and also for employers looking to hire for these positions. 
